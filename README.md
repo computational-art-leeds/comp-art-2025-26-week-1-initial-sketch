@@ -1,6 +1,15 @@
-# Task Instructions
+# Week 1 Task - Initial Sketch
 
-## Template for submitting your COMPUTATIONAL ART class work
+**Sketch your initials (or name) using only primitive shapes, points, and/or lines.** Play with shape, colour, stroke, transparency (alpha). 
+
+Think about simplifying letter forms; think about adding complexity or flourishes.
+
+![Example image](img/example.png)
+
+#### OPTIONAL:
+Want to go further? Create your own shapes by using [`beginShape()`](https://p5js.org/reference/p5/beginShape/) and vertices.
+
+## When you're ready to submit your sketch...
 
 1. Complete the task sketch using the P5.js web editor: <https://editor.p5js.org/>
 2. _Make sure you regularly save your work._
